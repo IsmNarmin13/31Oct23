@@ -1,0 +1,15 @@
+C:\Users\comp-service\Desktop\Taask3\Taask3\bin\Debug\net6.0\Taask3.exe
+C:\Users\comp-service\Desktop\Taask3\Taask3\bin\Debug\net6.0\Taask3.deps.json
+C:\Users\comp-service\Desktop\Taask3\Taask3\bin\Debug\net6.0\Taask3.runtimeconfig.json
+C:\Users\comp-service\Desktop\Taask3\Taask3\bin\Debug\net6.0\Taask3.dll
+C:\Users\comp-service\Desktop\Taask3\Taask3\bin\Debug\net6.0\Taask3.pdb
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.csproj.AssemblyReference.cache
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.AssemblyInfoInputs.cache
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.AssemblyInfo.cs
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.csproj.CoreCompileInputs.cache
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.dll
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\refint\Taask3.dll
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.pdb
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\Taask3.genruntimeconfig.cache
+C:\Users\comp-service\Desktop\Taask3\Taask3\obj\Debug\net6.0\ref\Taask3.dll
